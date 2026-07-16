@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.SenuaImg {
+    width: 250px;
+}
+
+.Card {
+    background-color: #ddebf8;
+    border-bottom: #d8cefe 10px solid;
+    width: 500px;
+    margin: 40px auto;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.BlueBorder {
+    border: 1px blue dotted;
+}
+
+
+.CardText {
+    border: violet 5px solid;
+    padding: 5px;
+    border-radius: 10px;
+    text-shadow: #2b2839;
+    text-align: center;
+    color: #2b2839;
+}
